@@ -11,4 +11,6 @@ The data that is used for this project has been exported from [Mi Band](http://m
 * An interactive dashboard has been created to understand the trends in my workout sessions better.
 
 ## Data Visualization
-![]()
+The dashboard has been published on [Tableau public](https://public.tableau.com/app/profile/viswa.bonam/viz/FitnessInsights/Dashboard1)  
+
+![](https://github.com/ViswaBonam/Fitness-Insights/blob/main/Data%20Viz.png)
