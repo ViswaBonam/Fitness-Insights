@@ -6,7 +6,7 @@ Although I'm not so regular to the gym, I wear a fitness band which keeps track 
 
 ## Data Extraction
 The data that is used for this project has been exported from [Mi Band](http://mifit.huami.com/t/account_mifit). 
-* The exported data had few ouliers (Times when the workout isn't stopped)
+* The exported data had few ouliers (times when the workout isn't stopped)
 * Relevant features are modified to better understanding. 
 * An interactive dashboard has been created to understand the trends in my workout sessions better.
 
